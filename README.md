@@ -1,7 +1,7 @@
 
 <img src="https://media.licdn.com/dms/image/D4D16AQHXhpiKwo-BkA/profile-displaybackgroundimage-shrink_350_1400/0/1693895387495?e=1700092800&v=beta&t=1k8Tf-WEdFi9PpmHZwLxyM-Gkps2bC5cMaUQzu-HxhA" alt="cover" />
 <h1 align="left">Welcome to Sachin's Frontend Development Playground!👋</h1>
-<h3 align="left" weight="100">Hello there! I'm Sachin, a passionate mid-level Frontend Developer with a knack for transforming intricate UI wireframes into delightful, user-friendly websites with hands-on experience, I've honed my skills in problem-solving and enhancing the overall user experience.</h3>
+<p align="left">Hello there! I'm Sachin, a passionate mid-level Frontend Developer with a knack for transforming intricate UI wireframes into delightful, user-friendly websites with hands-on experience, I've honed my skills in problem-solving and enhancing the overall user experience.</p>
 
 <h2 align="left">What I Bring to the Table</h2>
 <ul>
