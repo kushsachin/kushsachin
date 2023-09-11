@@ -3,14 +3,13 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li>
-    Tech Savvy: I thrive on JavaScript, React.js, Next.js, Redux, Redux Toolkit, TypeScript, and version control using GitHub. These are not just tools for me; they are my playground.
-</li>
+    Tech Savvy: I thrive on JavaScript, React.js, Next.js, Redux, Redux Toolkit, TypeScript, and version control using GitHub. These are not just tools for me; they       are my playground.
+  </li>
   <li>
-Adaptability: The frontend world moves fast, but I move faster. I'm quick to adapt and learn, whether it's tackling challenges within a team or taking the reins independently, all while needing minimal supervision.
-</li>
+    Adaptability: The frontend world moves fast, but I move faster. I'm quick to adapt and learn, whether it's tackling challenges within a team or taking the reins independently, all while needing minimal supervision.
+  </li>
   <li>
-Design Systems Guru: I've had the pleasure of working with various design systems such as Material-UI (MUI), Bootstrap, and Ant Design, allowing me to create seamless, harmonious user interfaces.
-
+    Design Systems Guru: I've had the pleasure of working with various design systems such as Material-UI (MUI), Bootstrap, and Ant Design, allowing me to create seamless, harmonious user interfaces.
   </li>
 </ul>
 <p align="left">
