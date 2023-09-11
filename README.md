@@ -1,6 +1,4 @@
 <h3 align="left">What I Bring to the Table</h3>
-
-<h3 align="left">Connect with me:</h3>
 <ul>
   <li>
     Tech Savvy: I thrive on JavaScript, React.js, Next.js, Redux, Redux Toolkit, TypeScript, and version control using GitHub. These are not just tools for me; they       are my playground.
