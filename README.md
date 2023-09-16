@@ -34,5 +34,4 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushsachin&mode=weekly" alt="kushsachin" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="kushsachin" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushsachin&hide_progress=true" alt="kushsachin" /></p>
