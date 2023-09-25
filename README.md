@@ -3,6 +3,7 @@
 <h1 align="left">Welcome to Sachin's Frontend Development Playground!👋</h1>
 <p align="left">Hello there! I'm Sachin, a passionate mid-level Frontend Developer with a knack for transforming intricate UI wireframes into delightful, user-friendly websites with hands-on experience, I've honed my skills in problem-solving and enhancing the overall user experience.</p>
 
+
 <h2 align="left">What I Bring to the Table</h2>
 <ul>
   <li>
