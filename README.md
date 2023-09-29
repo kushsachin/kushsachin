@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://images2.imgbox.com/ef/b1/FIen8lOI_o.png" alt="html5" width="40" height="40"/>
+<img src="https://images2.imgbox.com/ef/b1/FIen8lOI_o.png" alt="cover" />
   
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushsachin&hide_progress=true" alt="kushsachin" /></p>
 
