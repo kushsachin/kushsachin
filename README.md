@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/D4D16AQHXhpiKwo-BkA/profile-displaybackgroundimage-shrink_350_1400/0/1693895387495?e=1700092800&v=beta&t=1k8Tf-WEdFi9PpmHZwLxyM-Gkps2bC5cMaUQzu-HxhA" alt="cover" />
+<img src="https://media.licdn.com/dms/image/D4D16AQHXhpiKwo-BkA/profile-displaybackgroundimage-shrink_350_1400/0/1693895388451?e=1710979200&v=beta&t=sDq_4-ZDkLGZQXpsde5cewPi4XVsxHTT2WPtiN5xb_o" alt="cover" />
 <h1 align="left">Welcome to Sachin's Frontend Development Playground!👋</h1>
 <p align="left">Hello there! I'm Sachin, a passionate mid-level Frontend Developer with a knack for transforming intricate UI wireframes into delightful, user-friendly websites with hands-on experience, I've honed my skills in problem-solving and enhancing the overall user experience.</p>
 
@@ -24,7 +24,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://images2.imgbox.com/ef/b1/FIen8lOI_o.png" alt="cover" />
-  
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushsachin&hide_progress=true" alt="kushsachin" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushsachin&mode=weekly" alt="kushsachin" /></p>
