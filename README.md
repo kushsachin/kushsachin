@@ -47,7 +47,7 @@
 - 🛡️ Type-safe development with TypeScript interfaces & generics
 - 🎯 Component-driven architecture with React hooks
 - 📦 Module federation and microfrontend experience
-- 🔄 CI/CD pipeline configuration with GitHub Actions---
+- 🔄 CI/CD pipeline configuration with GitHub Actions
 
 ### 💡 **Value Proposition**
 
