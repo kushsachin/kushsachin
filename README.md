@@ -1,73 +1,76 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQHXhpiKwo-BkA/profile-displaybackgroundimage-shrink_350_1400/0/1693895388451?e=1710979200&v=beta&t=sDq_4-ZDkLGZQXpsde5cewPi4XVsxHTT2WPtiN5xb_o" alt="cover" />
+  
+# **Sachin Kushwaha**  
+#### **Frontend Developer | React Specialist | UI Architect**  
+📍 Lucknow, Uttar Pradesh | 📧 [usachin017@gmail.com](mailto:usachin017@gmail.com) | 📱 +91 91693 88485  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kushsachin)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-black?style=flat&logo=github)](https://github.com/yourusername)
+
 </div>
 
-<h1 align="center">🚀 Sachin Kushwaha - Frontend Developer Extraordinaire</h1>
-<h3 align="center">Crafting Pixel-Perfect Experiences with React & TypeScript</h3>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/kushsachin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+### 🚀 **Technical Arsenal**
+
+| **Frontend Core**      | **State Management** | **Styling Ecosystem**      | **Tools & Practices**       |
+|------------------------|----------------------|----------------------------|-----------------------------|
+| React.js • Next.js     | Redux Toolkit        | Material UI • Ant Design   | Git • GitHub Actions        |
+| TypeScript • JavaScript| Context API          | Tailwind CSS • Bootstrap   | REST API Integration        |
+| HTML5 • CSS3           | React Query          | CSS-in-JS • SCSS           | Figma • Agile Methodology  |
 
 ---
 
-### 👨💻 Tech Stack Superpowers
+### 💼 **Professional Journey**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### **Software Developer** @ [Axonas Consulting](https://axonas.com) *(Remote • Oct 2023 - Present)*  
+✅ Led frontend architecture for 3 enterprise platforms serving 10K+ monthly users  
+✅ Engineered 30% performance boost through optimized API handling and code splitting  
+✅ **Key Contributions:**  
+   - Built CRM analytics dashboard with real-time sales tracking (React/TS)  
+   - Developed asset management system with multi-location tracking  
+   - Implemented role-based access control system  
 
----
-
-### 🛠️ Development Arsenal
-
-**Frontend Mastery**  
-React.js | Next.js | Redux Toolkit | Context API | HTML5 | CSS3 | SCSS
-
-**UI/UX Wizardry**  
-Material-UI | Ant Design | Bootstrap | Storybook | Responsive Design
-
-**Dev Tools**  
-Git & GitHub | Webpack | Vite | Jest | Chrome DevTools | Postman
+#### **Associate Software Engineer** @ [CEDCOSS Technologies](https://cedcommerce.com) *(Lucknow • Apr 2022 - Aug 2023)*  
+🚀 Delivered 40% faster product listing through optimized React components  
+🔧 Reduced inventory errors by 15% via automated validation systems  
+🌟 **Highlight Projects:**  
+   - Miravia Marketplace Integration (Product Management Suite)  
+   - vidaXL Integration Platform (Order Processing System)  
 
 ---
 
-### 💡 Value Proposition
+### 🏆 **Signature Projects**
 
-- 🧩 **Complexity Tamer**: Expert at transforming intricate wireframes into intuitive user interfaces
-- 🚀 **Performance Ninja**: Obsessed with optimization and smooth user experiences
-- 🎯 **Problem Solver**: 2+ years of experience tackling frontend challenges head-on
-- 📚 **Learning Junkie**: Constantly evolving with the latest frontend trends and best practices
+#### **EOU Management Platform** | [Live Demo](https://eou.dataalay.com)  
+▶️ Built analytics dashboard with D3.js visualizations  
+▶️ 30% user engagement increase through intuitive workflow design  
 
----
+#### **Asset Tracking System** | [Explore](https://myassets.dataalay.com)  
+🛠️ Developed warranty/AMC management module  
+📈 25% performance improvement with React.memo optimization  
 
-### 🏆 Recent Triumphs
-
-- Led UI modernization effort for enterprise application using React + TypeScript
-- Reduced initial load time by 40% through code splitting and lazy loading
-- Implemented design system that improved development speed by 25%
-- Mentored 3 junior developers in React best practices
+#### **Marketplace Integration Suite**  
+⚡️ Unified API handler for 5+ e-commerce platforms  
+🔒 Implemented JWT authentication flow  
 
 ---
 
-### 📫 Let's Connect!
+### 📚 **Education & Continuous Growth**
 
-<p align="center">
-  <a href="https://linkedin.com/in/kushsachin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**BCA in Computer Applications**  
+*Chhatrapati Shahu Ji Maharaj University • 2019-2022*  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+**Ongoing Learning:**  
+🎯 Advanced React Patterns (Next.js 14 App Router)  
+🎯 Microfrontend Architecture  
+🎯 Web Performance Optimization
+
+---
+
+### 📬 **Let's Collaborate!**
+
+[![Email](https://img.shields.io/badge/Email-Proposal%20Discussion-red?style=for-the-badge&logo=gmail)](mailto:usachin017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kushsachin)
+
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
