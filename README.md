@@ -6,6 +6,7 @@
   <a href="https://sachindev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  [![Portfolio](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge&logo=vercel)](https://sachindev.vercel.app/)
   <a href="https://linkedin.com/in/kushsachin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
