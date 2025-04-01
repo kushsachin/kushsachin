@@ -45,7 +45,7 @@
 - 🏗️ **Architecture:** Scalable component-based architecture with React
 - ⚡ **Performance:** Optimized applications with 30%+ performance gains
 - 🛡️ **Type Safety:** Robust TypeScript implementations
-- 🎨 **UI/UX:** Pixel-perfect implementations from Figma designs
+- 🎨 **UI/UX Implementation:** Pixel-perfect implementations from Figma designs
 - 🤝 **Collaboration:** Agile team player with strong communication skills
 
 ---
