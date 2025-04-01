@@ -5,7 +5,7 @@
 📧 [usachin017@gmail.com](mailto:usachin017@gmail.com) | 📱 +91 91693 88485 | 🔗 [LinkedIn](https://linkedin.com/in/kushsachin)
 
 [![GitHub](https://img.shields.io/badge/View_Projects-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge&logo=web)](https://sachindev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge&logo=internet)](https://sachindev.vercel.app/)
 </div>
 
 ---
