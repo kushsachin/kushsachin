@@ -77,17 +77,6 @@
   </a>
 </p>
 
-<div align="center">
-
-# **Sachin Kushwaha**  
-### **Frontend Development Specialist**  
-📧 [usachin017@gmail.com](mailto:usachin017@gmail.com) | 📱 +91 91693 88485 | 🔗 [LinkedIn](https://linkedin.com/in/kushsachin)
-
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge&logo=globe)](https://sachindev.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View_Projects-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-
-</div>
-
 ---
 ### 🛠 **Technical Expertise**
 
@@ -148,17 +137,6 @@
 - **Tooling:** Configured Webpack/Vite build pipelines
 
 ---
-
-### 📫 **Connect With Me**
-
-<p align="center">
-  <a href="mailto:usachin017@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/kushsachin">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat)
 
