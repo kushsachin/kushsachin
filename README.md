@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge&logo=globe)](https://sachindev.vercel.app/)
 [![GitHub](https://img.shields.io/badge/View_Projects-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge&logo=🌐)](https://sachindev.vercel.app/)
 
 </div>
 
