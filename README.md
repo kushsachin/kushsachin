@@ -4,7 +4,7 @@
 ### **Frontend Development Specialist**  
 📧 [usachin017@gmail.com](mailto:usachin017@gmail.com) | 📱 +91 91693 88485 | 🔗 [LinkedIn](https://linkedin.com/in/kushsachin)
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://sachindev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge&logo=globe)](https://sachindev.vercel.app/)
 [![GitHub](https://img.shields.io/badge/View_Projects-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 
 </div>
