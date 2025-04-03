@@ -8,9 +8,6 @@
     <a href="mailto:usachin017@gmail.com" target="_blank" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://sachindev.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
   </div>
 </div>
 
