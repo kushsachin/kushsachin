@@ -57,7 +57,7 @@
 
 ### 💡 **Value Proposition**
 
-- 2.7+ years experience building production-ready web applications
+- 2 years 10 months experience building production-ready web applications
 - Proven track record in performance optimization (30-40% efficiency gains)
 - Expert in complex state management and API integration
 - Strong focus on clean code architecture and maintainability
