@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <a href="https://sachindev.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://sachindev.vercel.app/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 120px;">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="width: 100%;"/>
   </a>
-  <a href="https://linkedin.com/in/kushsachin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/kushsachin" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 120px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100%;"/>
   </a>
-  <a href="mailto:usachin017@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=-for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:usachin017@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 120px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=-for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 100%;"/>
   </a>
 </div>
 
