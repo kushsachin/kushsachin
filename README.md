@@ -3,9 +3,6 @@
 </div>
 
 <div align="center" style="white-space: nowrap;">
-  <a href="https://sachindev.vercel.app/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 120px; margin: 0 5px;">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="width: 100%;"/>
-  </a>
   <a href="https://linkedin.com/in/kushsachin" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 120px; margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100%;"/>
   </a>
