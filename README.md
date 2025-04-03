@@ -76,7 +76,3 @@
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat)
-
-
-
-rewrite my readme.
