@@ -15,59 +15,68 @@
 </div>
 
 ---
+### 🛠 **Technical Expertise**
 
-## 🛠️ Technical Stack
+#### **Frontend Technologies**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### **Core Competencies**
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+#### **State Management & Data Flow**
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
 
-### **State Management**
-<div align="center">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</div>
+#### **Styling & UI Systems**
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### **UI & Styling**
-<div align="center">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
-</div>
+#### **Build Tools & Workflow**
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
 
-### **Tools & Workflow**
-<div align="center">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</div>
+#### **API Integration**
+![REST](https://img.shields.io/badge/REST_API-FF6F61?style=flat&logo=rest&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white)
 
----
+**Key Capabilities:**
+- ⚡ 30%+ performance optimization through code splitting/lazy loading
+- 🛡️ Type-safe development with TypeScript interfaces & generics
+- 🎯 Component-driven architecture with React hooks
+- 📦 Module federation and microfrontend experience
+- 🔄 CI/CD pipeline configuration with GitHub Actions
 
-## 🚀 Professional Highlights
+### 💡 **Value Proposition**
 
-- **Performance Optimization:** Achieved 30-40% efficiency gains through code splitting and lazy loading
-- **Type-Safe Development:** Extensive experience with TypeScript interfaces and generics
-- **Scalable Architecture:** Built maintainable SPAs with component-driven design
-- **CI/CD Pipelines:** Configured automated workflows with GitHub Actions
-- **API Integration:** Expertise in REST, GraphQL, and WebSocket implementations
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushsachin&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushsachin&layout=compact&theme=radical" />
-</div>
+- 2.7+ years experience building production-ready web applications
+- Proven track record in performance optimization (30-40% efficiency gains)
+- Expert in complex state management and API integration
+- Strong focus on clean code architecture and maintainability
+- Cross-functional collaborator in Agile environments
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushsachin&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-</div>
+### 🔥 **Technical Highlights**
+
+- **Architecture:** Built scalable SPAs with React + TypeScript
+- **Performance:** Implemented code-splitting, memoization, and lazy loading
+- **UI/UX:** Created design systems with MUI/Ant Design
+- **Integration:** REST API expertise with Axios/React Query
+- **Tooling:** Configured Webpack/Vite build pipelines
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat)
+
+
+
+rewrite my readme.
