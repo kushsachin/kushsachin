@@ -28,7 +28,7 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)
 
-#### **Styling & UI Systems**
+#### **Styling & UI System**
 ![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
